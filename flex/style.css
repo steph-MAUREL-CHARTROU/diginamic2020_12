@@ -1,0 +1,32 @@
+/*  gris : #888988 
+    Jaune : #F2C004 
+    Vert : #239B56
+    chevron droit <i class="fas fa-chevron-circle-right"></i>
+     chevron gauche <i class="fas fa-chevron-circle-left></i>
+     roue <i class="fas fa-cog"></i>
+     cerveau <i class="fas fa-brain"></i>
+      <i class="fas fa-user-plus"></i>*/
+
+
+header {
+
+    background-color: #888988 ;
+    display: flex;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+
+nav ul {
+
+    list-style-type: none;
+}
+
+nav ul li {
+
+ display:inline;
+ text-align: center;
+ justify-content: space-between;
+ 
+}

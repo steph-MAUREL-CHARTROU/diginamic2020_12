@@ -1,0 +1,50 @@
+/*  gris : #888988 
+    Jaune : #F2C004 
+    Vert : #239B56
+*/
+
+.banner {
+  background-color: #6c757D;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+
+}
+nav li {
+
+  margin : 10px
+}
+
+button {
+  background-color: #6c757D;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 15px;
+  color: white;
+  box-shadow: none;
+  border-radius: 5px;
+}
+button:hover {
+  background-color: #6c757D;
+}
+
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+section {
+  
+  background-color: #6c757D;
+  font-family: "Roboto", sans-serif;
+  color: white;
+  border-radius: 5px;
+  padding : 15px;
+}
